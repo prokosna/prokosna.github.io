@@ -81,7 +81,7 @@ menu:
   Archives: /archives
 rss: /atom.xml
 excerpt_link: Read More
-fancybox: true
+fancybox: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
